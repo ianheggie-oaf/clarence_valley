@@ -19,17 +19,15 @@ Add any issues to https://github.com/planningalerts-scrapers/issues/issues
 
 ### Expected output
 
-```
-Getting advertised DAs page
-Saving record DA2025/0572 - 115 River Street, Maclean 2463, NSW
-...
-Saving record DA2026/0004 - 208 Bacon Street, Grafton 2460, NSW
-Deleting 0 applications scraped between  and 2025-12-29
-  Running VACUUM to reclaim space...
-Added 7 records, and skipped 0 unprocessable records.
-Found pagination: Page 1 of 1
-Finished!
-```
+    Getting advertised DAs page
+    Saving record DA2025/0572 - 115 River Street, Maclean 2463, NSW
+    ...
+    Saving record DA2026/0004 - 208 Bacon Street, Grafton 2460, NSW
+    Deleting 0 applications scraped between  and 2025-12-29
+      Running VACUUM to reclaim space...
+    Added 7 records, and skipped 0 unprocessable records.
+    Found pagination: Page 1 of 1
+    Finished!
 
 Execution time: ~ 2 seconds
 
